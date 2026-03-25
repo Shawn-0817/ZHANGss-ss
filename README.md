@@ -11,9 +11,9 @@
 
 ## Github Stats  
 
-<a href="https://github.com/ZHANGss-ss/"> 
+<!-- <a href="https://github.com/ZHANGss-ss/"> 
   <img wide="50%" height=200px src="https://github-readme-stats.vercel.app/api?username=ZHANGss-ss&theme=algolia&show_icons=true&?count_private=true?" />
-</a>
+</a> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZHANGss-ss/ZHANGss-ss/output/github-contribution-grid-snake-dark.svg">
